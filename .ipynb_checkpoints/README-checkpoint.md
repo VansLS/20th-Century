@@ -1,4 +1,4 @@
-# 20th-Century
+# Analyzing key events of the 20th-Century
 
 
 # Objective
